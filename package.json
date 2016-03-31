@@ -31,10 +31,10 @@
     "webpack": "^1.12.2"
   },
   "dependencies": {
-    "babel-runtime": "^5.8.25",
+    "babel-runtime": "^5.8.25"
   },
   "peerDependencies": {
-    "react": "^0.14.8",
+    "react": "^0.14.8"
   },
   "bugs": {
     "url": "https://github.com/angus-c/es6-react-mixins/issues"
